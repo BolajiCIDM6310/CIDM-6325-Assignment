@@ -1,0 +1,1053 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2024-08-27T15:32:50.554Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Django is Great",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2024-08-27T16:21:18.700Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Another post",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2024-09-05T01:10:30.369Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "step by steps on how to create an Azure Storage Account",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2024-09-05T01:11:35.378Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Who is Satya Nadella",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2024-09-05T01:12:46.931Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "how to become a cloud solutions architect",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2024-09-05T01:13:28.364Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Django is Great",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Status\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2024-09-05T01:14:57.565Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "how to become a us citizen",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2024-09-05T01:15:50.061Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Blog App Project",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2024-09-05T01:17:30.892Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Blog App Project",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2024-09-05T01:18:04.469Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Django is Great",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2024-09-05T01:19:45.465Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Django is Great",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2024-09-05T01:20:49.903Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Django is Great",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2024-09-05T01:25:38.341Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "how to become a us citizen",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2024-09-05T01:25:52.332Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "how to become a cloud solutions architect",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2024-09-05T01:25:57.585Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Who is Satya Nadella",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2024-09-05T01:26:20.810Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "step by steps on how to create an Azure Storage Account",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2024-09-05T01:28:29.344Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "step by steps on how to create an Azure Storage Account",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2024-09-05T01:30:40.408Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Another post",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\", \"Body\", \"Status\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2024-09-05T01:37:57.827Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "how to become a us citizen",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2024-09-05T01:38:20.394Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "how to become a cloud solutions architect",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2024-09-05T01:39:39.155Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "step by steps on how to create an Azure Storage Account",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2024-09-05T03:17:41.031Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Comment by Nathan on step by steps on how to create an Azure Storage Account",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2024-09-05T03:18:06.731Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "Comment by Ethan on Who is Satya Nadella",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2024-09-06T17:13:13.628Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Another post",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2024-09-06T17:13:44.067Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "how to become a us citizen",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2024-09-06T18:40:36.482Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Markdown post",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2024-09-06T18:51:51.713Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "localhost:8000",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2024-09-08T19:57:09.579Z",
+      "user": 2,
+      "content_type": 12,
+      "object_id": "1",
+      "object_repr": "Indomie Recipe",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2024-09-08T19:58:39.425Z",
+      "user": 2,
+      "content_type": 4,
+      "object_id": "2",
+      "object_repr": "Bless",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2024-09-08T23:31:40.415Z",
+      "user": 2,
+      "content_type": 12,
+      "object_id": "2",
+      "object_repr": "Another",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2024-09-08T23:31:52.327Z",
+      "user": 2,
+      "content_type": 12,
+      "object_id": "1",
+      "object_repr": "Indomie Recipe",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2024-09-09T00:03:21.290Z",
+      "user": 2,
+      "content_type": 13,
+      "object_id": "1",
+      "object_repr": "3 by Bless for Indomie Recipe",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2024-09-12T02:42:55.274Z",
+      "user": 2,
+      "content_type": 14,
+      "object_id": "1",
+      "object_repr": "Comment by test on Indomie Recipe",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2024-09-12T09:42:42.629Z",
+      "user": 2,
+      "content_type": 12,
+      "object_id": "1",
+      "object_repr": "Indomie Recipe",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2024-09-12T10:04:15.325Z",
+      "user": 2,
+      "content_type": 12,
+      "object_id": "3",
+      "object_repr": "Rice Pudding",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2024-09-12T10:05:27.343Z",
+      "user": 2,
+      "content_type": 12,
+      "object_id": "4",
+      "object_repr": "Fried Plantain",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2024-09-12T10:07:02.486Z",
+      "user": 2,
+      "content_type": 13,
+      "object_id": "2",
+      "object_repr": "7 by bolajimuyiwa for Rice Pudding",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2024-09-12T10:08:02.821Z",
+      "user": 2,
+      "content_type": 13,
+      "object_id": "2",
+      "object_repr": "4 by bolajimuyiwa for Rice Pudding",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Rating\"]}}]"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$hFxpFOi2SI3Y222lt1IkQK$7YQBuEa4pD6elk4lgEG2XAIAh0Jo6wDZm90xUPuvV7Y=",
+      "last_login": "2024-08-27T15:14:52.555Z",
+      "is_superuser": true,
+      "username": "bolajimuyiwa",
+      "first_name": "",
+      "last_name": "",
+      "email": "bmuyiwa1@buffs.wtamu.edu",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-08-27T15:12:51.222Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$870000$l4P7ycvPEJUl5PVN28z8Wv$7jJ96eG0HEm25h8e7bFWGqfvNfGWVEzvzhmreBfreg8=",
+      "last_login": "2024-09-08T21:50:24.359Z",
+      "is_superuser": true,
+      "username": "Bless",
+      "first_name": "",
+      "last_name": "",
+      "email": "testmailbee010@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-09-08T19:17:14Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "2aknte71q9hjp6lr3auncinv23ogbpow",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGlnBsRMvJX3OED3v2jiAbCmfCnF3iJQC2jcz76VGbGsetyXO4yTqoow6_W4B_IhlB3JHuVXNtazzFPSu6IMueqgSn9fD_TvIWPK3ThwaD0YkYdgWHtb1qUEvngISCTnApWQYgcS3Z3TeNJ2zng0ZEvX-AClLOP0:1snNQf:xjOXsD0lNsVnS6ekEkdTMZxivCnxzj1_tSGdcGzBjhU",
+      "expire_date": "2024-09-22T19:18:33.158Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "3nyfsjqpdl0tx98kmwz6rj5x540fcefu",
+    "fields": {
+      "session_data": ".eJxVjEsOgzAMBe-SdRXhYCDusnvOgGzHNLRVkPisqt69QmLRbt_MvLcbeN_ysK-2DFNyVwfu8rsJ69PKAdKDy332OpdtmcQfij_p6vs52et2un8Hmdd81BbrjkggBbSqVkTWpuWg0o21EVY2CrbUaqwERQgDEnADEUQ7TuA-X-qlN_0:1sixuG:7gaT6HjK4onm_W7FJYj4IlzrESx3vfqgRPiO45atBEE",
+      "expire_date": "2024-09-10T15:14:52.596Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "b3p9df8agubxvg7g1e9fe23dqmd8ma8s",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGlnBsRMvJX3OED3v2jiAbCmfCnF3iJQC2jcz76VGbGsetyXO4yTqoow6_W4B_IhlB3JHuVXNtazzFPSu6IMueqgSn9fD_TvIWPK3ThwaD0YkYdgWHtb1qUEvngISCTnApWQYgcS3Z3TeNJ2zng0ZEvX-AClLOP0:1snPnc:YdYUR90rMmlPQ674BtWonIHzTS0ZdcQOvijTEaoQwsw",
+      "expire_date": "2024-09-22T21:50:24.362Z"
+    }
+  },
+  {
+    "model": "sites.site",
+    "pk": 1,
+    "fields": {
+      "domain": "localhost:8000",
+      "name": "localhost:8000"
+    }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 1,
+    "fields": {
+      "name": "music",
+      "slug": "music"
+    }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 2,
+    "fields": {
+      "name": "django",
+      "slug": "django"
+    }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 3,
+    "fields": {
+      "name": "jazz",
+      "slug": "jazz"
+    }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 4,
+    "fields": {
+      "name": "markdown",
+      "slug": "markdown"
+    }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 5,
+    "fields": {
+      "name": "non",
+      "slug": "non"
+    }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 6,
+    "fields": {
+      "name": "none",
+      "slug": "none"
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 1,
+    "fields": {
+      "tag": 1,
+      "content_type": 7,
+      "object_id": 1
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 3,
+    "fields": {
+      "tag": 3,
+      "content_type": 7,
+      "object_id": 1
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 5,
+    "fields": {
+      "tag": 1,
+      "content_type": 7,
+      "object_id": 2
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 6,
+    "fields": {
+      "tag": 3,
+      "content_type": 7,
+      "object_id": 2
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 7,
+    "fields": {
+      "tag": 3,
+      "content_type": 7,
+      "object_id": 6
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 8,
+    "fields": {
+      "tag": 4,
+      "content_type": 7,
+      "object_id": 7
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 10,
+    "fields": {
+      "tag": 5,
+      "content_type": 12,
+      "object_id": 2
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 11,
+    "fields": {
+      "tag": 6,
+      "content_type": 12,
+      "object_id": 1
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 12,
+    "fields": {
+      "tag": 6,
+      "content_type": 12,
+      "object_id": 3
+    }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 13,
+    "fields": {
+      "tag": 6,
+      "content_type": 12,
+      "object_id": 4
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+      "title": "Django is Great",
+      "slug": "django_great",
+      "author": 1,
+      "body": "This is my first Django Project and Learning",
+      "publish": "2024-08-27T15:30:42Z",
+      "created": "2024-08-27T15:32:50.543Z",
+      "updated": "2024-09-05T01:20:49.900Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+      "title": "Another post",
+      "slug": "another-post",
+      "author": 1,
+      "body": "Post body",
+      "publish": "2024-08-27T15:59:19Z",
+      "created": "2024-08-27T15:59:47.508Z",
+      "updated": "2024-09-06T17:13:13.612Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+      "title": "step by steps on how to create an Azure Storage Account",
+      "slug": "create-azure-storageaccount",
+      "author": 1,
+      "body": "An Azure storage account works in a similar way as your Wardrobe in terms of storing your data in the cloud.\r\n\r\nAn Azure storage account contains all of your Azure Storage data objects: blobs, files, queues, and tables. The storage account provides a unique namespace for your Azure Storage data that’s accessible from anywhere in the world over HTTP or HTTPS. Data in your storage account is durable and highly available, secure, and massively scalable.\r\n\r\nAzure Storage Account has four supported storage services: (1) Blobs (containers), (2) Files, (3) Queues, and (4) tables.\r\n\r\nIn this article, I will take you by the hand and walk through a step-by-step journey on how you can successfully create and manage blob storage in your Azure Management Portal.\r\n\r\nWhat is Azure Blob Storage?\r\n\r\nBlob stands for Binary Large Object\r\n\r\nAzure Blob Storage is Microsoft’s object storage solution for the cloud. Blob Storage is optimized for storing massive amounts of unstructured data. Unstructured data is data that doesn’t adhere to a particular data model or definition, such as text or binary data.\r\n\r\nYou can picture Azure Blob Storage as a container for storing all your data objects, like websites, pictures, videos, computer games, documents, etc.\r\n\r\nBlob Storage is designed for:\r\n\r\nServing images or documents directly to a browser.\r\nStoring files for distributed access.\r\nStreaming video and audio.\r\nWriting to log files.\r\nStoring data for backup and restore, disaster recovery, and archiving.\r\nStoring data for analysis by an on-premises or Azure-hosted service.\r\nIn this article, we will follow a step to step approach to creating a Blob storage account and explain its three tiers in the sequential order below:\r\n\r\n1) Create Azure Free Account\r\n\r\n2) Create Storage Account\r\n\r\n3) Create Blob Container\r\n\r\n4) Explain the three Access Tiers\r\n\r\nLet’s get started!\r\n\r\n1) Create a free Azure Account to get started\r\n\r\n2) Create a Storage Account:\r\n\r\na) Sign in to the Azure Portal\r\n\r\nb) Click on the search bar and type “Storage Account”\r\n\r\nc) Click on “Create” to go to the “Basics” setup section\r\n\r\n\r\nd) Under the project details in the Basics section, choose your subscription\r\n\r\ne) Click on “Create new” to create a new resource group (a container that holds related resources for the Azure solution) for your storage account.\r\n\r\n\r\nf) Under the instance details, give your storage account a globally unique name.\r\n\r\nWhen naming your storage account, keep these rules in mind:\r\n\r\nStorage account names must be between 3 and 24 characters in length and may contain numbers and lowercase letters only.\r\nYour storage account name must be unique within Azure. No two storage accounts can have the same name.\r\ng) For cost optimization, select the standard performance\r\n\r\nh) For redundancy, select the Geo Redundant Storage (GRS) because this option gives you a failover capability into another region and it is recommended by Microsoft for backup purposes.\r\n\r\n\r\n\r\ni) Click on the Advanced Tab\r\n\r\nj) On the Access tier, click on “Hot”\r\n\r\n\r\nk) Click on the Networking Tab\r\n\r\nl) Under the Network Connectivity section, click on “Enable public access from all networks” This option allows access to your storage account over the Internet.\r\n\r\n\r\nm) In the network routing section, click on the Microsoft network routing radio button\r\n\r\n\r\nn) On the Data Protection Tab, leave the recovery options in the default mode.\r\n\r\n\r\no) You can skip the Tag and the Encryption Tab and click “Review” to make sure all the settings are correct. The review option validates your settings and gives you a summary of your resource.\r\n\r\np) Once the validation is passed, click on “Create”\r\n\r\n\r\n3) Create Blob Container\r\n\r\na) Click on the storage you created",
+      "publish": "2024-09-05T01:06:32Z",
+      "created": "2024-09-05T01:10:30.360Z",
+      "updated": "2024-09-05T01:39:39.101Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 4,
+    "fields": {
+      "title": "Who is Satya Nadella",
+      "slug": "Satya-Nadella",
+      "author": 1,
+      "body": "Satya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company.\r\n\r\nJoining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings.\r\n\r\nMost recently, Nadella was executive vice president of Microsoft’s Cloud and Enterprise group. In this role he led the transformation to the cloud infrastructure and services business, which outperformed the market and took share from competition. Previously, Nadella led R&D for the Online Services Division and was vice president of the Microsoft Business Division. Before joining Microsoft, Nadella was a member of the technology staff at Sun Microsystems.\r\n\r\nOriginally from Hyderabad, India, Nadella lives in Bellevue, Washington, with his family. He earned a bachelor’s degree in electrical engineering from Mangalore University, a master’s degree in computer science from the University of Wisconsin – Milwaukee and a master’s degree in business administration from the University of Chicago. Nadella serves on the board of trustees to his alma mater the University of Chicago.",
+      "publish": "2024-09-05T01:10:51Z",
+      "created": "2024-09-05T01:11:35.374Z",
+      "updated": "2024-09-05T01:25:57.575Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 5,
+    "fields": {
+      "title": "how to become a cloud solutions architect",
+      "slug": "cloud-solutions-architect",
+      "author": 1,
+      "body": "To become a cloud architect, you'll need a strong background in computer operating systems, programming languages, networking, and security. Although there aren’t any education requirements, this is an advanced position in information technology (IT). Having a degree isn’t required, but it can be helpful, and some employers may prefer it. Other options include formal training courses and Professional Certificates in addition to gaining work experience.\r\n\r\nCloud computing is increasingly in demand. By 2023, the public cloud computing market is estimated to reach more than $599 billion, up from a projected $495 billion in 2022, according to Statista [1]. With more organizations embracing cloud computing and digitization, there has also been an increase in demand for professionals who can develop and maintain the systems and services that provide the features and security people rely on.\r\n\r\nAs a career choice, cloud architecture offers a variety of roles across different industries. Discover what's needed to build a successful career to help you decide if cloud architecture is the right path for you.",
+      "publish": "2024-09-05T01:11:52Z",
+      "created": "2024-09-05T01:12:46.926Z",
+      "updated": "2024-09-05T01:38:20.391Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 6,
+    "fields": {
+      "title": "how to become a us citizen",
+      "slug": "US-Citizenship",
+      "author": 1,
+      "body": "In all, there are four fundamental ways to become a U.S. citizen: citizenship by birth in the U.S., citizenship through derivation, citizenship through acquisition, and citizenship through naturalization. Most immigrants in the United States become citizens through the naturalization process. In fact, nearly one million permanent residents apply for naturalization each year.\r\n\r\nCitizenship through Birth\r\nUnder United States law, any person born within the United States (including the territories of Puerto Rico, Guam, the U.S. Virgin Islands, and the Northern Mariana Islands) is automatically granted U.S. citizenship. There is an exemption for children of parents who are foreign diplomats or members of a sovereign Native American tribe. The Fourteenth Amendment to the U.S. Constitution states that:\r\n\r\n\"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.\"\r\n\r\nAs most Americans are born on U.S. soil, this is clearly the post common of the ways to become a U.S. citizen. The next three paths address ways foreign nationals can obtain citizenship.\r\n\r\n2\r\nCitizenship through Acquisition\r\nIn some circumstances, a child automatically “acquires” citizenship even though that child was born outside the United States. At least one parent needs to be a U.S. citizen at the time of the child’s birth and several other conditions must be met. When this child marries and has children, those children may also acquire U.S. citizenship at birth. The ways a child can become a U.S. citizen through acquisition generally include:\r\n\r\nBoth parents were U.S. citizens\r\nRequires that both parents were U.S. citizens at the time of the child's birth and the parents were married at the time of birth abroad, and at least one parent lived in the U.S., or its territories, or both, prior to the child's birth.\r\nOne parent was a U.S. citizen\r\nRequires that one parent was a U.S. citizen at the time of the child's birth abroad; and the child was born on or after November 14, 1986; and the parents were married at the time of birth; and the U.S. citizen parent was physically present in the U.S. or its territories for a period of at least five years at some time in their life prior to the birth, of which at least two years were after their 14th birthday.\r\nOne parent was a U.S. citizen\r\nRequires that one parent was a U.S. citizen at the time of the child's birth abroad; and the birth date is before November 14, 1986, but after October 10, 1952; and the child's parents were married at the time of the birth; and the U.S. citizen parent was physically present in the U.S. or its territories for a period of at least ten years at some time in their life prior to the child's birth, at least five of which were after their 14th birthday.",
+      "publish": "2024-09-05T01:13:59Z",
+      "created": "2024-09-05T01:14:57.559Z",
+      "updated": "2024-09-06T17:13:43.956Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 7,
+    "fields": {
+      "title": "Markdown post",
+      "slug": "markdown-post",
+      "author": 1,
+      "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n* One\r\n* Two\r\n* Three\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+      "publish": "2024-09-06T18:39:09Z",
+      "created": "2024-09-06T18:40:36.470Z",
+      "updated": "2024-09-06T18:40:36.470Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 1,
+    "fields": {
+      "post": 3,
+      "name": "Nathan",
+      "email": "bmuyiwa1@buffs.wtamu.edu",
+      "body": "Excellent blog and post",
+      "created": "2024-09-05T03:17:40.963Z",
+      "updated": "2024-09-05T03:17:40.963Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 2,
+    "fields": {
+      "post": 4,
+      "name": "Ethan",
+      "email": "bmuyiwa1@buffs.wtamu.edu",
+      "body": "Nice post and information",
+      "created": "2024-09-05T03:18:06.728Z",
+      "updated": "2024-09-05T03:18:06.728Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 3,
+    "fields": {
+      "post": 6,
+      "name": "Ethan",
+      "email": "bmuyiwa1@buffs.wtamu.edu",
+      "body": "Excellent post",
+      "created": "2024-09-05T03:27:44.584Z",
+      "updated": "2024-09-05T03:27:44.584Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 4,
+    "fields": {
+      "post": 5,
+      "name": "Nathan",
+      "email": "bmuyiwa1@buffs.wtamu.edu",
+      "body": "Good piece here",
+      "created": "2024-09-05T03:28:23.189Z",
+      "updated": "2024-09-05T03:28:23.189Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 5,
+    "fields": {
+      "post": 6,
+      "name": "Bolaji",
+      "email": "bmuyiwa1@buffs.wtamu.edu",
+      "body": "Nice start",
+      "created": "2024-09-05T03:29:08.597Z",
+      "updated": "2024-09-05T03:29:08.597Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 6,
+    "fields": {
+      "post": 4,
+      "name": "Soap",
+      "email": "test@test.com",
+      "body": "Cool",
+      "created": "2024-09-11T20:20:08.669Z",
+      "updated": "2024-09-11T20:20:08.669Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 7,
+    "fields": {
+      "post": 2,
+      "name": "Blessed",
+      "email": "testmailbee010@gmail.com",
+      "body": "nice one",
+      "created": "2024-09-12T01:43:43.353Z",
+      "updated": "2024-09-12T01:43:43.353Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 8,
+    "fields": {
+      "post": 2,
+      "name": "BeeTest",
+      "email": "popoolablessing79@yahoo.com",
+      "body": "nice",
+      "created": "2024-09-12T01:44:33.000Z",
+      "updated": "2024-09-12T01:44:33.000Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.recipe",
+    "pk": 1,
+    "fields": {
+      "title": "Indomie Recipe",
+      "slug": "indomie-recipe",
+      "author": 2,
+      "ingredients": "Indomie Noodle, the seasonings",
+      "steps": "Boil water\r\npour noodles\r\nadd seasonings\r\nwait to cook",
+      "cooking_time": 15,
+      "publish": "2024-09-08T19:52:21Z",
+      "created": "2024-09-08T19:57:09.559Z",
+      "updated": "2024-09-12T09:42:42.612Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.recipe",
+    "pk": 2,
+    "fields": {
+      "title": "Another",
+      "slug": "another",
+      "author": 2,
+      "ingredients": "Not sure what",
+      "steps": "Browsing...",
+      "cooking_time": 15,
+      "publish": "2024-09-08T23:30:43Z",
+      "created": "2024-09-08T23:31:40.401Z",
+      "updated": "2024-09-08T23:31:40.401Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.recipe",
+    "pk": 3,
+    "fields": {
+      "title": "Rice Pudding",
+      "slug": "rice-pudding",
+      "author": 2,
+      "ingredients": "Rice, Sugar, Salt, Milk",
+      "steps": "Cook the rice.\r\nCook the cooked rice, some of the milk, sugar, and salt over medium heat until thick.\r\nStir in the remaining milk, egg, and raisins. Cook for two more minutes.\r\nRemove from heat and stir in the butter and vanilla.",
+      "cooking_time": 10,
+      "publish": "2024-09-12T10:02:09Z",
+      "created": "2024-09-12T10:04:15.311Z",
+      "updated": "2024-09-12T10:04:15.311Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.recipe",
+    "pk": 4,
+    "fields": {
+      "title": "Fried Plantain",
+      "slug": "fried-plantain",
+      "author": 2,
+      "ingredients": "Plantain, Oil",
+      "steps": "Cut the Plantain\r\nPut in boiling oi\r\nFry till golden brown",
+      "cooking_time": 3,
+      "publish": "2024-09-12T10:04:15Z",
+      "created": "2024-09-12T10:05:27.329Z",
+      "updated": "2024-09-12T10:05:27.329Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.commentres",
+    "pk": 1,
+    "fields": {
+      "recipe": 1,
+      "name": "test",
+      "email": "testmailbee010@gmail.com",
+      "body": "testing",
+      "created": "2024-09-12T02:42:55.271Z",
+      "updated": "2024-09-12T02:42:55.271Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.commentres",
+    "pk": 2,
+    "fields": {
+      "recipe": 2,
+      "name": "Bless",
+      "email": "test@test.com",
+      "body": "trial",
+      "created": "2024-09-12T08:04:01.021Z",
+      "updated": "2024-09-12T08:04:01.021Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.commentres",
+    "pk": 3,
+    "fields": {
+      "recipe": 2,
+      "name": "Soap",
+      "email": "testing@test.com",
+      "body": "cool",
+      "created": "2024-09-12T08:24:12.218Z",
+      "updated": "2024-09-12T08:24:12.218Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.commentres",
+    "pk": 4,
+    "fields": {
+      "recipe": 1,
+      "name": "Check",
+      "email": "checking@check.com",
+      "body": "just checing",
+      "created": "2024-09-12T09:10:23.277Z",
+      "updated": "2024-09-12T09:10:23.277Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.commentres",
+    "pk": 5,
+    "fields": {
+      "recipe": 2,
+      "name": "last try",
+      "email": "lastTry@gmail.com",
+      "body": "triee",
+      "created": "2024-09-12T09:49:45.616Z",
+      "updated": "2024-09-12T09:49:45.616Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.reciperating",
+    "pk": 1,
+    "fields": {
+      "recipe": 1,
+      "user": 2,
+      "rating": 3,
+      "created": "2024-09-09T00:03:21.287Z"
+    }
+  },
+  {
+    "model": "blog.reciperating",
+    "pk": 2,
+    "fields": {
+      "recipe": 3,
+      "user": 1,
+      "rating": 4,
+      "created": "2024-09-12T10:07:02.483Z"
+    }
+  }
+]

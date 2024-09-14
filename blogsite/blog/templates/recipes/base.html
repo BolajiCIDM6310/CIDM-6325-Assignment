@@ -1,0 +1,41 @@
+{% load blog_tags %}
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>
+            {% block title %}{% endblock title %}
+        </title>
+        <link href="{% static "css/blog2.css" %}" rel="stylesheet">
+    </head>
+    <body>
+        <div id="content">
+            {% block content %}
+            {% endblock %}
+        </div>
+        <div id="sidebar">
+            <h2>Recipes</h2>
+            <p>
+                Find recipes here,
+                I have {% total_recipes %} recipes so far.
+            </p>
+
+            <!-- <h3>Latest recipes</h3> -->
+            {% show_latest_recipes 3 %}
+
+            <h3>Most commented recipes</h3>
+            {% get_most_commented_recipes as most_commented_recipes %}
+            <ul> 
+              {% for recipe in most_commented_recipes %}
+                <li>
+                  <a href="{{ recipe.get_absolute_url }}">{{ recipe.title }}</a>
+                </li>
+              {% endfor %}
+            </ul> 
+
+            <h3>Checkout My Blog Site</h3>
+            <a href="{% url "blog:post_list" %}"> My Blog Page</a>
+            
+        </div>
+    </body>
+</html>

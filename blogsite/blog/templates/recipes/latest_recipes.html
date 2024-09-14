@@ -1,0 +1,8 @@
+<h3>Latest Recipes</h3>
+<ul>
+    {% for recipe in latest_recipes %}
+        <li>
+            <a href="{{ recipe.get_absolute_url }}">{{ recipe.title }}</a>
+        </li>
+    {% endfor %}
+</ul>
